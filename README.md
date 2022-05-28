@@ -14,7 +14,8 @@
  
  Printed a list of symbols.
  
- #THE CODE!
+ #THE CODE!#
+ 
  Ask user to input how many letters they would like in their password
  
  Ask user to input how many symbols they would like in their password
