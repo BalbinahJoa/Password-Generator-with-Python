@@ -1,4 +1,4 @@
-# PythonProject1
+# Password Generator
  Objective: Build a basic prototype for password creation.
 
  #Here is a list of all the steps taken to fulfill the objective:
